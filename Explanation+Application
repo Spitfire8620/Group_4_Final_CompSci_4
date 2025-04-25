@@ -1,1 +1,8 @@
+What it is:
+Our program helps you figure out how many different outfits you can make from the clothes in your closet. It lets you enter categories (like shirts, jeans, shoes) and different clothing items in each. Behind the scenes, it uses a concept from discrete structures called combinatorics — the math of counting possibilities when choices are independent.
+We use the Cartesian Product to calculate and list all the possible outfit combinations.
 
+Why it matters:
+This matters because discrete structures like counting and combinatorics are what make things like recommendation systems, inventory algorithms, and even AI outfit generators possible.
+Knowing how to work with independent choices isn’t just about picking your clothes — it's how computers figure out millions of combinations in things like shopping carts, meal planning apps, and game move possibilities.
+Without discrete structures, even simple tasks like suggesting an outfit or finding possible moves in a game would be chaotic and way slower.
